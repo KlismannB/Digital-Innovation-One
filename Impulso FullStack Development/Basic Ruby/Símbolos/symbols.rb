@@ -1,0 +1,3 @@
+:Klismann
+
+print(:Klismann.class)
